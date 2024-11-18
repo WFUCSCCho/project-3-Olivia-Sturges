@@ -253,30 +253,32 @@ public class Proj3 {
             double sortedTotalTime = 0.0;
             double shuffledTotalTime = 0.0;
             double reversedTotalTime = 0.0;
-            int numComparisons = 0;
+            int sortedNumComparisons = 0;
+            int shuffNumComparisons = 0;
+            int revNumComparisons = 0;
 
             // bubble case
             if (sortingType.equals("bubble")) {
                 // Sorted ArrayList
                 startTime = System.nanoTime();
-                numComparisons = bubbleSort(sorted, sorted.size());
+                sortedNumComparisons = bubbleSort(sorted, sorted.size());
                 endTime = System.nanoTime();
                 sortedTotalTime = (endTime - startTime) / 1e9;
-                System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: sorted, Num comparisons: " + numComparisons + ", " + "Time (sec): " + sortedTotalTime + "\n");
+                System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: sorted, Num comparisons: " + sortedNumComparisons + ", " + "Time (sec): " + sortedTotalTime + "\n");
 
                 // Shuffled ArrayList
                 startTime = System.nanoTime();
-                numComparisons = bubbleSort(rand, rand.size());
+                shuffNumComparisons = bubbleSort(rand, rand.size());
                 endTime = System.nanoTime();
                 shuffledTotalTime = (endTime - startTime) / 1e9;
-                System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: shuffled, Num comparisons: " + numComparisons + ", " + "Time (sec): " + shuffledTotalTime + "\n");
+                System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: shuffled, Num comparisons: " + shuffNumComparisons + ", " + "Time (sec): " + shuffledTotalTime + "\n");
 
                 // Reversed ArrayList
                 startTime = System.nanoTime();
-                numComparisons = bubbleSort(rev, rev.size());
+                revNumComparisons = bubbleSort(rev, rev.size());
                 endTime = System.nanoTime();
                 reversedTotalTime = (endTime - startTime) / 1e9;
-                System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: reversed, Num comparisons: " + numComparisons + ", " + "Time (sec): " + reversedTotalTime);
+                System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: reversed, Num comparisons: " + revNumComparisons + ", " + "Time (sec): " + reversedTotalTime);
 
             }
 
@@ -359,24 +361,24 @@ public class Proj3 {
             else {
                 // Sorted ArrayList
                 startTime = System.nanoTime();
-                numComparisons = transpositionSort(sorted, sorted.size());
+                sortedNumComparisons = transpositionSort(sorted, sorted.size());
                 endTime = System.nanoTime();
                 sortedTotalTime = (endTime - startTime) / 1e9;
-                System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: sorted, Num comparisons: " + numComparisons + ", " + "Time (sec): " + sortedTotalTime + "\n");
+                System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: sorted, Num comparisons: " + sortedNumComparisons + ", " + "Time (sec): " + sortedTotalTime + "\n");
 
                 // Shuffled ArrayList
                 startTime = System.nanoTime();
-                numComparisons = transpositionSort(rand, rand.size());
+                shuffNumComparisons = transpositionSort(rand, rand.size());
                 endTime = System.nanoTime();
                 shuffledTotalTime = (endTime - startTime) / 1e9;
-                System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: shuffled, Num comparisons: " + numComparisons + ", " + "Time (sec): " + shuffledTotalTime + "\n");
+                System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: shuffled, Num comparisons: " + shuffNumComparisons + ", " + "Time (sec): " + shuffledTotalTime + "\n");
 
                 // Reversed ArrayList
                 startTime = System.nanoTime();
-                numComparisons = transpositionSort(rev, rev.size());
+                revNumComparisons = transpositionSort(rev, rev.size());
                 endTime = System.nanoTime();
                 reversedTotalTime = (endTime - startTime) / 1e9;
-                System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: reversed, Num comparisons: " + numComparisons + ", " + "Time (sec): " + reversedTotalTime);
+                System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: reversed, Num comparisons: " + revNumComparisons + ", " + "Time (sec): " + reversedTotalTime);
 
 
             }
@@ -395,9 +397,9 @@ public class Proj3 {
             writeToFile1("Sorted ArrayList:\n" + s + "\n" + "Shuffled ArrayList:\n" + r + "\n" + "Reversed ArrayList:\n" + v, "./sorted.txt");
 
             // Writing to output.txt in CSV style format
-            // N,sortingType,sortedTotalTime,shuffledTotalTime,reversedTotalTime,numComparisons
-            // for quick, heap, and merge numComparisons will be 0 because we do not count the number of comparisons for those algorithms
-            writeToFile2(numLines + "," + sortingType + "," + sortedTotalTime + "," + shuffledTotalTime + "," + reversedTotalTime + "," + numComparisons, "./analysis.txt");
+            // N,sortingType,sortedTotalTime,shuffledTotalTime,reversedTotalTime,sortedNumComparisons,shuffNumComparisons,revNumComparisons
+            // for quick, heap, and merge numComparisons variables will be 0 because we do not count the number of comparisons for those algorithms
+            writeToFile2(numLines + "," + sortingType + "," + sortedTotalTime + "," + shuffledTotalTime + "," + reversedTotalTime + "," + sortedNumComparisons + "," + shuffNumComparisons + "," + revNumComparisons, "./analysis.txt");
         }
         else {
             System.out.println("Either not a sorting algorithm implemented in this project or entered incorrectly. " +
