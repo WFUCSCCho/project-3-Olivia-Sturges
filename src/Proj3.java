@@ -261,21 +261,21 @@ public class Proj3 {
                 startTime = System.nanoTime();
                 numComparisons = bubbleSort(sorted, sorted.size());
                 endTime = System.nanoTime();
-                sortedTotalTime = endTime - startTime / 1e9;
+                sortedTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: sorted, Num comparisons: " + numComparisons + ", " + "Time (sec): " + sortedTotalTime + "\n");
 
                 // Shuffled ArrayList
                 startTime = System.nanoTime();
                 numComparisons = bubbleSort(rand, rand.size());
                 endTime = System.nanoTime();
-                shuffledTotalTime = endTime - startTime / 1e9;
+                shuffledTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: shuffled, Num comparisons: " + numComparisons + ", " + "Time (sec): " + shuffledTotalTime + "\n");
 
                 // Reversed ArrayList
                 startTime = System.nanoTime();
                 numComparisons = bubbleSort(rev, rev.size());
                 endTime = System.nanoTime();
-                reversedTotalTime = endTime - startTime / 1e9;
+                reversedTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: reversed, Num comparisons: " + numComparisons + ", " + "Time (sec): " + reversedTotalTime);
 
             }
@@ -286,21 +286,21 @@ public class Proj3 {
                 startTime = System.nanoTime();
                 quickSort(sorted, 0, sorted.size() - 1);
                 endTime = System.nanoTime();
-                sortedTotalTime = endTime - startTime / 1e9;
+                sortedTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: sorted, " + "Time (sec): " + sortedTotalTime + "\n");
 
                 // Shuffled ArrayList
                 startTime = System.nanoTime();
                 quickSort(rand, 0, rand.size() - 1);
                 endTime = System.nanoTime();
-                shuffledTotalTime = endTime - startTime / 1e9;
+                shuffledTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: shuffled, " + "Time (sec): " + shuffledTotalTime + "\n");
 
                 // Reversed ArrayList
                 startTime = System.nanoTime();
                 quickSort(rev, 0, rev.size() - 1);;
                 endTime = System.nanoTime();
-                reversedTotalTime = endTime - startTime / 1e9;
+                reversedTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: reversed, " + "Time (sec): " + reversedTotalTime);
 
             }
@@ -311,21 +311,21 @@ public class Proj3 {
                 startTime = System.nanoTime();
                 mergeSort(sorted, 0, sorted.size() - 1);
                 endTime = System.nanoTime();
-                sortedTotalTime = endTime - startTime / 1e9;
+                sortedTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: sorted, " + "Time (sec): " + sortedTotalTime + "\n");
 
                 // Shuffled ArrayList
                 startTime = System.nanoTime();
                 mergeSort(rand, 0, rand.size() - 1);
                 endTime = System.nanoTime();
-                shuffledTotalTime = endTime - startTime / 1e9;
+                shuffledTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: shuffled, " + "Time (sec): " + shuffledTotalTime + "\n");
 
                 // Reversed ArrayList
                 startTime = System.nanoTime();
                 mergeSort(rev, 0, rev.size() - 1);;
                 endTime = System.nanoTime();
-                reversedTotalTime = endTime - startTime / 1e9;
+                reversedTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: reversed, " + "Time (sec): " + reversedTotalTime);
 
             }
@@ -336,21 +336,21 @@ public class Proj3 {
                 startTime = System.nanoTime();
                 heapSort(sorted, 0, sorted.size() - 1);
                 endTime = System.nanoTime();
-                sortedTotalTime = endTime - startTime / 1e9;
+                sortedTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: sorted, " + "Time (sec): " + sortedTotalTime + "\n");
 
                 // Shuffled ArrayList
                 startTime = System.nanoTime();
                 heapSort(rand, 0, rand.size() - 1);
                 endTime = System.nanoTime();
-                shuffledTotalTime = endTime - startTime / 1e9;
+                shuffledTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: shuffled, " + "Time (sec): " + shuffledTotalTime + "\n");
 
                 // Reversed ArrayList
                 startTime = System.nanoTime();
                 heapSort(rev, 0, rev.size() - 1);;
                 endTime = System.nanoTime();
-                reversedTotalTime = endTime - startTime / 1e9;
+                reversedTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: reversed, " + "Time (sec): " + reversedTotalTime);
 
             }
@@ -361,21 +361,21 @@ public class Proj3 {
                 startTime = System.nanoTime();
                 numComparisons = transpositionSort(sorted, sorted.size());
                 endTime = System.nanoTime();
-                sortedTotalTime = endTime - startTime / 1e9;
+                sortedTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: sorted, Num comparisons: " + numComparisons + ", " + "Time (sec): " + sortedTotalTime + "\n");
 
                 // Shuffled ArrayList
                 startTime = System.nanoTime();
                 numComparisons = transpositionSort(rand, rand.size());
                 endTime = System.nanoTime();
-                shuffledTotalTime = endTime - startTime / 1e9;
+                shuffledTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: shuffled, Num comparisons: " + numComparisons + ", " + "Time (sec): " + shuffledTotalTime + "\n");
 
                 // Reversed ArrayList
                 startTime = System.nanoTime();
                 numComparisons = transpositionSort(rev, rev.size());
                 endTime = System.nanoTime();
-                reversedTotalTime = endTime - startTime / 1e9;
+                reversedTotalTime = (endTime - startTime) / 1e9;
                 System.out.print("N:" + numLines + ", " + "Sorting algorithm: " + sortingType + ", " + "ArrayList Type: reversed, Num comparisons: " + numComparisons + ", " + "Time (sec): " + reversedTotalTime);
 
 
