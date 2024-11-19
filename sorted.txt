@@ -1,0 +1,366 @@
+Sorted ArrayList:
+Season: 6, Episode Number in Season: 20, Overall Episode Number: 110, Title: "One in 8000", Directed By: Dean Holland, Written By: Donick Cary & Joe Mande, Original Air Date: 2014-04-17, US Viewers: 2390000.0 
+Season: 6, Episode Number in Season: 14, Overall Episode Number: 104, Title: Anniversaries, Directed By: Morgan Sackett, Written By: Megan Amram, Original Air Date: 2014-02-27, US Viewers: 2520000.0 
+Season: 6, Episode Number in Season: 19, Overall Episode Number: 109, Title: Flu Season 2, Directed By: Nick Offerman, Written By: Megan Amram & Dave King, Original Air Date: 2014-04-10, US Viewers: 2560000.0 
+Season: 5, Episode Number in Season: 21, Overall Episode Number: 89, Title: Swing Vote, Directed By: Alan Yang, Written By: Joe Mande & Alan Yang, Original Air Date: 2013-04-25, US Viewers: 2590000.0 
+Season: 6, Episode Number in Season: 18, Overall Episode Number: 108, Title: Prom, Directed By: Ken Whittingham, Written By: Matt Murray & Harris Wittels, Original Air Date: 2014-04-03, US Viewers: 2670000.0 
+Season: 6, Episode Number in Season: 21, Overall Episode Number: 111, Title: Moving Up: Part 1, Directed By: Michael Schur, Written By: Aisha Muharrar & Alan Yang, Original Air Date: 2014-04-24, US Viewers: 2710000.0 
+Season: 6, Episode Number in Season: 22, Overall Episode Number: 112, Title: Moving Up: Part 2, Directed By: Michael Schur, Written By: Aisha Muharrar & Alan Yang, Original Air Date: 2014-04-24, US Viewers: 2710000.0 
+Season: 6, Episode Number in Season: 16, Overall Episode Number: 106, Title: New Slogan, Directed By: Dean Holland, Written By: Alan Yang & Sam Means, Original Air Date: 2014-03-13, US Viewers: 2720000.0 
+Season: 6, Episode Number in Season: 8, Overall Episode Number: 98, Title: Fluoride, Directed By: Michael Trim, Written By: Matt Hubbard, Original Air Date: 2013-11-21, US Viewers: 2810000.0 
+Season: 6, Episode Number in Season: 9, Overall Episode Number: 99, Title: The Cones of Dunshire, Directed By: Julie Anne Robinson, Written By: Dave King, Original Air Date: 2013-11-21, US Viewers: 2810000.0 
+Season: 5, Episode Number in Season: 17, Overall Episode Number: 85, Title: Partridge, Directed By: Tristram Shapeero, Written By: Dave King, Original Air Date: 2013-04-04, US Viewers: 2930000.0 
+Season: 5, Episode Number in Season: 15, Overall Episode Number: 83, Title: Correspondents' Lunch, Directed By: Nick Offerman, Written By: Alexandra Rushfield, Original Air Date: 2013-02-21, US Viewers: 2950000.0 
+Season: 6, Episode Number in Season: 15, Overall Episode Number: 105, Title: The Wall, Directed By: Ken Whittingham, Written By: Jen Statsky, Original Air Date: 2014-03-06, US Viewers: 2950000.0 
+Season: 7, Episode Number in Season: 6, Overall Episode Number: 118, Title: Save JJ's, Directed By: Ken Whittingham, Written By: Joe Mande, Original Air Date: 2015-01-27, US Viewers: 2970000.0 
+Season: 6, Episode Number in Season: 12, Overall Episode Number: 102, Title: Farmers Market, Directed By: Adam Scott, Written By: Joe Mande, Original Air Date: 2014-01-23, US Viewers: 2980000.0 
+Season: 5, Episode Number in Season: 8, Overall Episode Number: 76, Title: Pawnee Commons, Directed By: Morgan Sackett, Written By: Alexandra Rushfield, Original Air Date: 2012-11-29, US Viewers: 2990000.0 
+Season: 5, Episode Number in Season: 22, Overall Episode Number: 90, Title: Are You Better Off?, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2013-05-02, US Viewers: 2990000.0 
+Season: 5, Episode Number in Season: 16, Overall Episode Number: 84, Title: Bailout, Directed By: Craig Zisk, Written By: Joe Mande, Original Air Date: 2013-03-14, US Viewers: 3000000.0 
+Season: 6, Episode Number in Season: 6, Overall Episode Number: 96, Title: Filibuster, Directed By: Morgan Sackett, Written By: Harris Wittels, Original Air Date: 2013-11-14, US Viewers: 3030000.0 
+Season: 6, Episode Number in Season: 7, Overall Episode Number: 97, Title: Recall Vote, Directed By: Wendey Stanzler, Written By: Aisha Muharrar, Original Air Date: 2013-11-14, US Viewers: 3030000.0 
+Season: 6, Episode Number in Season: 13, Overall Episode Number: 103, Title: Ann and Chris, Directed By: Dean Holland, Written By: Aisha Muharrar & Michael Schur, Original Air Date: 2014-01-30, US Viewers: 3030000.0 
+Season: 6, Episode Number in Season: 11, Overall Episode Number: 101, Title: New Beginnings, Directed By: Alan Yang, Written By: Sam Means, Original Air Date: 2014-01-16, US Viewers: 3050000.0 
+Season: 6, Episode Number in Season: 17, Overall Episode Number: 107, Title: Galentine's Day, Directed By: Beth McCarthy-Miller, Written By: Emma Fletcher & Rachna Fruchbom, Original Air Date: 2014-03-20, US Viewers: 3050000.0 
+Season: 7, Episode Number in Season: 8, Overall Episode Number: 120, Title: Ms. Ludgate-Dwyer Goes to Washington, Directed By: Morgan Sackett, Written By: Dave King, Original Air Date: 2015-02-03, US Viewers: 3060000.0 
+Season: 5, Episode Number in Season: 14, Overall Episode Number: 82, Title: Leslie and Ben, Directed By: Craig Zisk, Written By: Michael Schur & Alan Yang, Original Air Date: 2013-02-21, US Viewers: 3070000.0 
+Season: 6, Episode Number in Season: 3, Overall Episode Number: 93, Title: The Pawnee-Eagleton Tip Off Classic, Directed By: Nicole Holofcener, Written By: Alan Yang, Original Air Date: 2013-10-03, US Viewers: 3140000.0 
+Season: 5, Episode Number in Season: 18, Overall Episode Number: 86, Title: Animal Control, Directed By: Craig Zisk, Written By: Megan Amram, Original Air Date: 2013-04-11, US Viewers: 3150000.0 
+Season: 4, Episode Number in Season: 20, Overall Episode Number: 66, Title: The Debate, Directed By: Amy Poehler, Written By: Amy Poehler, Original Air Date: 2012-04-26, US Viewers: 3170000.0 
+Season: 5, Episode Number in Season: 13, Overall Episode Number: 81, Title: Emergency Response, Directed By: Dean Holland, Written By: Norm Hiscock & Joe Mande, Original Air Date: 2013-02-14, US Viewers: 3180000.0 
+Season: 6, Episode Number in Season: 4, Overall Episode Number: 94, Title: Doppelgängers, Directed By: Jay Karas, Written By: Donick Cary, Original Air Date: 2013-10-10, US Viewers: 3230000.0 
+Season: 7, Episode Number in Season: 2, Overall Episode Number: 114, Title: Ron & Jammy, Directed By: Dean Holland, Written By: Harris Wittels, Original Air Date: 2015-01-13, US Viewers: 3250000.0 
+Season: 4, Episode Number in Season: 21, Overall Episode Number: 67, Title: Bus Tour, Directed By: Dean Holland, Written By: Aisha Muharrar & Alan Yang, Original Air Date: 2012-05-03, US Viewers: 3260000.0 
+Season: 5, Episode Number in Season: 2, Overall Episode Number: 70, Title: Soda Tax, Directed By: Kyle Newacheck, Written By: Norm Hiscock, Original Air Date: 2012-09-27, US Viewers: 3270000.0 
+Season: 5, Episode Number in Season: 9, Overall Episode Number: 77, Title: Ron and Diane, Directed By: Dan Goor, Written By: Megan Amram & Aisha Muharrar, Original Air Date: 2012-12-06, US Viewers: 3270000.0 
+Season: 6, Episode Number in Season: 1, Overall Episode Number: 91, Title: London: Part 1, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2013-09-26, US Viewers: 3270000.0 
+Season: 6, Episode Number in Season: 2, Overall Episode Number: 92, Title: London: Part 2, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2013-09-26, US Viewers: 3270000.0 
+Season: 6, Episode Number in Season: 5, Overall Episode Number: 95, Title: Gin It Up!, Directed By: Jorma Taccone, Written By: Matt Murray, Original Air Date: 2013-10-17, US Viewers: 3270000.0 
+Season: 7, Episode Number in Season: 4, Overall Episode Number: 116, Title: Leslie and Ron, Directed By: Beth McCarthy-Miller, Written By: Michael Schur, Original Air Date: 2015-01-20, US Viewers: 3300000.0 
+Season: 5, Episode Number in Season: 5, Overall Episode Number: 73, Title: Halloween Surprise, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2012-10-25, US Viewers: 3340000.0 
+Season: 5, Episode Number in Season: 20, Overall Episode Number: 88, Title: Jerry's Retirement, Directed By: Nicole Holofcener, Written By: Norm Hiscock & Aisha Muharrar, Original Air Date: 2013-04-18, US Viewers: 3340000.0 
+Season: 5, Episode Number in Season: 19, Overall Episode Number: 87, Title: Article Two, Directed By: Amy Poehler, Written By: Matt Murray, Original Air Date: 2013-04-18, US Viewers: 3350000.0 
+Season: 4, Episode Number in Season: 22, Overall Episode Number: 68, Title: "Win Lose or Draw", Directed By: Michael Schur, Written By: Michael Schur, Original Air Date: 2012-05-10, US Viewers: 3420000.0 
+Season: 4, Episode Number in Season: 16, Overall Episode Number: 62, Title: Sweet Sixteen, Directed By: Michael Schur, Written By: Norm Hiscock, Original Air Date: 2012-02-23, US Viewers: 3430000.0 
+Season: 6, Episode Number in Season: 10, Overall Episode Number: 100, Title: Second Chunce, Directed By: Dean Holland, Written By: Amy Poehler & Michael Schur, Original Air Date: 2014-01-09, US Viewers: 3430000.0 
+Season: 4, Episode Number in Season: 15, Overall Episode Number: 61, Title: Dave Returns, Directed By: Robert B. Weide, Written By: Harris Wittels, Original Air Date: 2012-02-16, US Viewers: 3450000.0 
+Season: 7, Episode Number in Season: 7, Overall Episode Number: 119, Title: Donna and Joe, Directed By: Ken Whittingham, Written By: Aisha Muharrar, Original Air Date: 2015-02-03, US Viewers: 3450000.0 
+Season: 4, Episode Number in Season: 19, Overall Episode Number: 65, Title: Live Ammo, Directed By: Tristram Shapeero, Written By: Dave King & Chelsea Peretti, Original Air Date: 2012-04-19, US Viewers: 3460000.0 
+Season: 5, Episode Number in Season: 4, Overall Episode Number: 72, Title: Sex Education, Directed By: Craig Zisk, Written By: Alan Yang, Original Air Date: 2012-10-18, US Viewers: 3460000.0 
+Season: 5, Episode Number in Season: 6, Overall Episode Number: 74, Title: Ben's Parents, Directed By: Dean Holland, Written By: Greg Levine, Original Air Date: 2012-11-08, US Viewers: 3460000.0 
+Season: 7, Episode Number in Season: 5, Overall Episode Number: 117, Title: Gryzzlbox, Directed By: Amy Poehler, Written By: Donick Cary, Original Air Date: 2015-01-27, US Viewers: 3480000.0 
+Season: 4, Episode Number in Season: 13, Overall Episode Number: 59, Title: Bowling for Votes, Directed By: Michael Trim, Written By: Katie Dippold, Original Air Date: 2012-01-26, US Viewers: 3490000.0 
+Season: 5, Episode Number in Season: 1, Overall Episode Number: 69, Title: Ms. Knope Goes to Washington, Directed By: Dean Holland, Written By: Aisha Muharrar, Original Air Date: 2012-09-20, US Viewers: 3500000.0 
+Season: 5, Episode Number in Season: 7, Overall Episode Number: 75, Title: Leslie vs. April, Directed By: Wendey Stanzler, Written By: Harris Wittels, Original Air Date: 2012-11-15, US Viewers: 3520000.0 
+Season: 5, Episode Number in Season: 3, Overall Episode Number: 71, Title: How a Bill Becomes a Law, Directed By: Ken Whittingham, Written By: Dan Goor, Original Air Date: 2012-10-04, US Viewers: 3530000.0 
+Season: 3, Episode Number in Season: 14, Overall Episode Number: 44, Title: Road Trip, Directed By: Troy Miller, Written By: Harris Wittels, Original Air Date: 2011-05-12, US Viewers: 3540000.0 
+Season: 4, Episode Number in Season: 14, Overall Episode Number: 60, Title: Operation Ann, Directed By: Morgan Sackett, Written By: Aisha Muharrar, Original Air Date: 2012-02-02, US Viewers: 3600000.0 
+Season: 4, Episode Number in Season: 10, Overall Episode Number: 56, Title: Citizen Knope, Directed By: Randall Einhorn, Written By: Dave King, Original Air Date: 2011-12-08, US Viewers: 3640000.0 
+Season: 4, Episode Number in Season: 7, Overall Episode Number: 53, Title: The Treaty, Directed By: Jorma Taccone, Written By: Harris Wittels, Original Air Date: 2011-11-10, US Viewers: 3660000.0 
+Season: 4, Episode Number in Season: 18, Overall Episode Number: 64, Title: Lucky, Directed By: Troy Miller, Written By: Nick Offerman, Original Air Date: 2012-03-08, US Viewers: 3660000.0 
+Season: 4, Episode Number in Season: 8, Overall Episode Number: 54, Title: Smallest Park, Directed By: Nicole Holofcener, Written By: Chelsea Peretti, Original Air Date: 2011-11-17, US Viewers: 3680000.0 
+Season: 4, Episode Number in Season: 9, Overall Episode Number: 55, Title: The Trial of Leslie Knope, Directed By: Dean Holland, Written By: Dan Goor & Michael Schur, Original Air Date: 2011-12-01, US Viewers: 3690000.0 
+Season: 3, Episode Number in Season: 16, Overall Episode Number: 46, Title: Li'l Sebastian, Directed By: Dean Holland, Written By: Dan Goor, Original Air Date: 2011-05-19, US Viewers: 3720000.0 
+Season: 7, Episode Number in Season: 1, Overall Episode Number: 113, Title: 2017, Directed By: Dean Holland, Written By: Alan Yang & Matt Murray, Original Air Date: 2015-01-13, US Viewers: 3750000.0 
+Season: 5, Episode Number in Season: 12, Overall Episode Number: 80, Title: Ann's Decision, Directed By: Ken Whittingham, Written By: Nate DiMeo, Original Air Date: 2013-02-07, US Viewers: 3760000.0 
+Season: 4, Episode Number in Season: 17, Overall Episode Number: 63, Title: Campaign Shake-Up, Directed By: Dan Goor, Written By: Dan Goor, Original Air Date: 2012-03-01, US Viewers: 3770000.0 
+Season: 7, Episode Number in Season: 3, Overall Episode Number: 115, Title: William Henry Harrison, Directed By: Tom Magill, Written By: Megan Amram, Original Air Date: 2015-01-20, US Viewers: 3870000.0 
+Season: 4, Episode Number in Season: 5, Overall Episode Number: 51, Title: Meet 'N' Greet, Directed By: Wendey Stanzler, Written By: Katie Dippold, Original Air Date: 2011-10-27, US Viewers: 3900000.0 
+Season: 5, Episode Number in Season: 10, Overall Episode Number: 78, Title: Two Parties, Directed By: Dean Holland, Written By: Dave King, Original Air Date: 2013-01-17, US Viewers: 3920000.0 
+Season: 5, Episode Number in Season: 11, Overall Episode Number: 79, Title: Women in Garbage, Directed By: Norm Hiscock, Written By: Harris Wittels, Original Air Date: 2013-01-24, US Viewers: 3940000.0 
+Season: 4, Episode Number in Season: 4, Overall Episode Number: 50, Title: Pawnee Rangers, Directed By: Charles McDougall, Written By: Alan Yang, Original Air Date: 2011-10-13, US Viewers: 3990000.0 
+Season: 4, Episode Number in Season: 6, Overall Episode Number: 52, Title: End of the World, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2011-11-03, US Viewers: 4000000.0 
+Season: 2, Episode Number in Season: 21, Overall Episode Number: 27, Title: 94 Meetings, Directed By: Tristram Shapeero, Written By: Harris Wittels, Original Air Date: 2010-04-29, US Viewers: 4030000.0000000005 
+Season: 2, Episode Number in Season: 22, Overall Episode Number: 28, Title: Telethon, Directed By: Troy Miller, Written By: Amy Poehler, Original Air Date: 2010-05-06, US Viewers: 4030000.0000000005 
+Season: 3, Episode Number in Season: 7, Overall Episode Number: 37, Title: Harvest Festival, Directed By: Dean Holland, Written By: Dan Goor, Original Air Date: 2011-03-17, US Viewers: 4080000.0 
+Season: 4, Episode Number in Season: 11, Overall Episode Number: 57, Title: The Comeback Kid, Directed By: Tucker Gates, Written By: Mike Scully, Original Air Date: 2012-01-12, US Viewers: 4090000.0 
+Season: 4, Episode Number in Season: 1, Overall Episode Number: 47, Title: I'm Leslie Knope, Directed By: Troy Miller, Written By: Dan Goor, Original Air Date: 2011-09-22, US Viewers: 4110000.0000000005 
+Season: 4, Episode Number in Season: 3, Overall Episode Number: 49, Title: Born and Raised, Directed By: Dean Holland, Written By: Aisha Muharrar, Original Air Date: 2011-10-06, US Viewers: 4150000.0000000005 
+Season: 2, Episode Number in Season: 2, Overall Episode Number: 8, Title: The Stakeout, Directed By: Seth Gordon, Written By: Rachel Axler, Original Air Date: 2009-09-24, US Viewers: 4220000.0 
+Season: 1, Episode Number in Season: 6, Overall Episode Number: 6, Title: Rock Show, Directed By: Michael Schur, Written By: Norm Hiscock, Original Air Date: 2009-05-14, US Viewers: 4250000.0 
+Season: 4, Episode Number in Season: 12, Overall Episode Number: 58, Title: Campaign Ad, Directed By: Dean Holland, Written By: Alan Yang, Original Air Date: 2012-01-19, US Viewers: 4250000.0 
+Season: 3, Episode Number in Season: 15, Overall Episode Number: 45, Title: The Bubble, Directed By: Matt Sohn, Written By: Greg Levine & Brian Rowe, Original Air Date: 2011-05-19, US Viewers: 4270000.0 
+Season: 2, Episode Number in Season: 23, Overall Episode Number: 29, Title: The Master Plan, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2010-05-13, US Viewers: 4280000.0 
+Season: 3, Episode Number in Season: 5, Overall Episode Number: 35, Title: Media Blitz, Directed By: David Rogers, Written By: Harris Wittels, Original Air Date: 2011-02-17, US Viewers: 4330000.0 
+Season: 4, Episode Number in Season: 2, Overall Episode Number: 48, Title: Ron and Tammys, Directed By: Randall Einhorn, Written By: Norm Hiscock, Original Air Date: 2011-09-29, US Viewers: 4330000.0 
+Season: 2, Episode Number in Season: 14, Overall Episode Number: 20, Title: Leslie's House, Directed By: Alex Hardcastle, Written By: Dan Goor, Original Air Date: 2010-01-21, US Viewers: 4350000.0 
+Season: 2, Episode Number in Season: 20, Overall Episode Number: 26, Title: Summer Catalog, Directed By: Ken Whittingham, Written By: Katie Dippold, Original Air Date: 2010-03-25, US Viewers: 4490000.0 
+Season: 2, Episode Number in Season: 24, Overall Episode Number: 30, Title: Freddy Spaghetti, Directed By: Jason Woliner, Written By: Dan Goor, Original Air Date: 2010-05-20, US Viewers: 4550000.0 
+Season: 3, Episode Number in Season: 13, Overall Episode Number: 43, Title: The Fight, Directed By: Randall Einhorn, Written By: Amy Poehler, Original Air Date: 2011-05-12, US Viewers: 4550000.0 
+Season: 2, Episode Number in Season: 13, Overall Episode Number: 19, Title: The Set Up, Directed By: Troy Miller, Written By: Katie Dippold, Original Air Date: 2010-01-14, US Viewers: 4590000.0 
+Season: 3, Episode Number in Season: 6, Overall Episode Number: 36, Title: Indianapolis, Directed By: Randall Einhorn, Written By: Katie Dippold, Original Air Date: 2011-02-24, US Viewers: 4590000.0 
+Season: 2, Episode Number in Season: 10, Overall Episode Number: 16, Title: Hunting Trip, Directed By: Greg Daniels, Written By: Dan Goor, Original Air Date: 2009-11-19, US Viewers: 4610000.0 
+Season: 2, Episode Number in Season: 18, Overall Episode Number: 24, Title: The Possum, Directed By: Tristram Shapeero, Written By: Mike Scully, Original Air Date: 2010-03-11, US Viewers: 4610000.0 
+Season: 2, Episode Number in Season: 3, Overall Episode Number: 9, Title: Beauty Pageant, Directed By: Jason Woliner, Written By: Katie Dippold, Original Air Date: 2009-10-01, US Viewers: 4630000.0 
+Season: 1, Episode Number in Season: 5, Overall Episode Number: 5, Title: The Banquet, Directed By: Beth McCarthy-Miller, Written By: Tucker Cawley, Original Air Date: 2009-05-07, US Viewers: 4640000.0 
+Season: 2, Episode Number in Season: 17, Overall Episode Number: 23, Title: Woman of the Year, Directed By: Jason Woliner, Written By: Norm Hiscock, Original Air Date: 2010-03-04, US Viewers: 4640000.0 
+Season: 2, Episode Number in Season: 9, Overall Episode Number: 15, Title: The Camel, Directed By: Millicent Shelton, Written By: Rachel Axler, Original Air Date: 2009-11-12, US Viewers: 4670000.0 
+Season: 2, Episode Number in Season: 5, Overall Episode Number: 11, Title: Sister City, Directed By: Michael Schur, Written By: Alan Yang, Original Air Date: 2009-10-15, US Viewers: 4690000.0 
+Season: 2, Episode Number in Season: 19, Overall Episode Number: 25, Title: Park Safety, Directed By: Michael Trim, Written By: Aisha Muharrar, Original Air Date: 2010-03-18, US Viewers: 4700000.0 
+Season: 3, Episode Number in Season: 11, Overall Episode Number: 41, Title: Jerry's Painting, Directed By: Dean Holland, Written By: Norm Hiscock, Original Air Date: 2011-04-28, US Viewers: 4710000.0 
+Season: 2, Episode Number in Season: 11, Overall Episode Number: 17, Title: Tom's Divorce, Directed By: Troy Miller, Written By: Harris Wittels, Original Air Date: 2009-12-03, US Viewers: 4830000.0 
+Season: 2, Episode Number in Season: 15, Overall Episode Number: 21, Title: Sweetums, Directed By: Dean Holland, Written By: Alan Yang, Original Air Date: 2010-02-04, US Viewers: 4870000.0 
+Season: 3, Episode Number in Season: 10, Overall Episode Number: 40, Title: Soulmates, Directed By: Ken Whittingham, Written By: Alan Yang, Original Air Date: 2011-04-21, US Viewers: 4880000.0 
+Season: 2, Episode Number in Season: 12, Overall Episode Number: 18, Title: Christmas Scandal, Directed By: Randall Einhorn, Written By: Michael Schur, Original Air Date: 2009-12-10, US Viewers: 4900000.0 
+Season: 2, Episode Number in Season: 8, Overall Episode Number: 14, Title: Ron and Tammy, Directed By: Troy Miller, Written By: Mike Scully, Original Air Date: 2009-11-05, US Viewers: 4940000.0 
+Season: 3, Episode Number in Season: 3, Overall Episode Number: 33, Title: Time Capsule, Directed By: Michael Schur, Written By: Michael Schur, Original Air Date: 2011-02-03, US Viewers: 4950000.0 
+Season: 2, Episode Number in Season: 7, Overall Episode Number: 13, Title: Greg Pikitis, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2009-10-29, US Viewers: 4960000.0 
+Season: 2, Episode Number in Season: 4, Overall Episode Number: 10, Title: Practice Date, Directed By: Alex Hardcastle, Written By: Harris Wittels, Original Air Date: 2009-10-08, US Viewers: 4970000.0 
+Season: 2, Episode Number in Season: 6, Overall Episode Number: 12, Title: Kaboom, Directed By: Charles McDougall, Written By: Aisha Muharrar, Original Air Date: 2009-10-22, US Viewers: 4980000.0 
+Season: 2, Episode Number in Season: 16, Overall Episode Number: 22, Title: Galentine's Day, Directed By: Ken Kwapis, Written By: Michael Schur, Original Air Date: 2010-02-11, US Viewers: 4980000.0 
+Season: 2, Episode Number in Season: 1, Overall Episode Number: 7, Title: Pawnee Zoo, Directed By: Paul Feig, Written By: Norm Hiscock, Original Air Date: 2009-09-17, US Viewers: 5000000.0 
+Season: 3, Episode Number in Season: 4, Overall Episode Number: 34, Title: Ron & Tammy 2, Directed By: Tucker Gates, Written By: Emily Kapnek, Original Air Date: 2011-02-10, US Viewers: 5030000.0 
+Season: 3, Episode Number in Season: 12, Overall Episode Number: 42, Title: Eagleton, Directed By: Nicole Holofcener, Written By: Emily Spivey, Original Air Date: 2011-05-05, US Viewers: 5060000.0 
+Season: 3, Episode Number in Season: 8, Overall Episode Number: 38, Title: Camping, Directed By: Rob Schrab, Written By: Aisha Muharrar, Original Air Date: 2011-03-24, US Viewers: 5150000.0 
+Season: 3, Episode Number in Season: 9, Overall Episode Number: 39, Title: Andy and April's Fancy Party, Directed By: Michael Trim, Written By: Katie Dippold, Original Air Date: 2011-04-14, US Viewers: 5160000.0 
+Season: 1, Episode Number in Season: 3, Overall Episode Number: 3, Title: The Reporter, Directed By: Jeffrey Blitz, Written By: Dan Goor, Original Air Date: 2009-04-23, US Viewers: 5240000.0 
+Season: 1, Episode Number in Season: 4, Overall Episode Number: 4, Title: Boys' Club, Directed By: Michael McCullers, Written By: Alan Yang, Original Air Date: 2009-04-30, US Viewers: 5290000.0 
+Season: 3, Episode Number in Season: 2, Overall Episode Number: 32, Title: Flu Season, Directed By: Wendey Stanzler, Written By: Norm Hiscock, Original Air Date: 2011-01-27, US Viewers: 5830000.0 
+Season: 1, Episode Number in Season: 2, Overall Episode Number: 2, Title: Canvassing, Directed By: Seth Gordon, Written By: Rachel Axler, Original Air Date: 2009-04-16, US Viewers: 5920000.0 
+Season: 3, Episode Number in Season: 1, Overall Episode Number: 31, Title: Go Big or Go Home, Directed By: Dean Holland, Written By: Alan Yang, Original Air Date: 2011-01-20, US Viewers: 6140000.0 
+Season: 1, Episode Number in Season: 1, Overall Episode Number: 1, Title: Pilot, Directed By: Greg Daniels, Written By: Greg Daniels & Michael Schur, Original Air Date: 2009-04-09, US Viewers: 6770000.0 
+
+Shuffled ArrayList:
+Season: 6, Episode Number in Season: 20, Overall Episode Number: 110, Title: "One in 8000", Directed By: Dean Holland, Written By: Donick Cary & Joe Mande, Original Air Date: 2014-04-17, US Viewers: 2390000.0
+Season: 6, Episode Number in Season: 14, Overall Episode Number: 104, Title: Anniversaries, Directed By: Morgan Sackett, Written By: Megan Amram, Original Air Date: 2014-02-27, US Viewers: 2520000.0
+Season: 6, Episode Number in Season: 19, Overall Episode Number: 109, Title: Flu Season 2, Directed By: Nick Offerman, Written By: Megan Amram & Dave King, Original Air Date: 2014-04-10, US Viewers: 2560000.0
+Season: 5, Episode Number in Season: 21, Overall Episode Number: 89, Title: Swing Vote, Directed By: Alan Yang, Written By: Joe Mande & Alan Yang, Original Air Date: 2013-04-25, US Viewers: 2590000.0
+Season: 6, Episode Number in Season: 18, Overall Episode Number: 108, Title: Prom, Directed By: Ken Whittingham, Written By: Matt Murray & Harris Wittels, Original Air Date: 2014-04-03, US Viewers: 2670000.0
+Season: 6, Episode Number in Season: 22, Overall Episode Number: 112, Title: Moving Up: Part 2, Directed By: Michael Schur, Written By: Aisha Muharrar & Alan Yang, Original Air Date: 2014-04-24, US Viewers: 2710000.0
+Season: 6, Episode Number in Season: 21, Overall Episode Number: 111, Title: Moving Up: Part 1, Directed By: Michael Schur, Written By: Aisha Muharrar & Alan Yang, Original Air Date: 2014-04-24, US Viewers: 2710000.0
+Season: 6, Episode Number in Season: 16, Overall Episode Number: 106, Title: New Slogan, Directed By: Dean Holland, Written By: Alan Yang & Sam Means, Original Air Date: 2014-03-13, US Viewers: 2720000.0
+Season: 6, Episode Number in Season: 8, Overall Episode Number: 98, Title: Fluoride, Directed By: Michael Trim, Written By: Matt Hubbard, Original Air Date: 2013-11-21, US Viewers: 2810000.0
+Season: 6, Episode Number in Season: 9, Overall Episode Number: 99, Title: The Cones of Dunshire, Directed By: Julie Anne Robinson, Written By: Dave King, Original Air Date: 2013-11-21, US Viewers: 2810000.0
+Season: 5, Episode Number in Season: 17, Overall Episode Number: 85, Title: Partridge, Directed By: Tristram Shapeero, Written By: Dave King, Original Air Date: 2013-04-04, US Viewers: 2930000.0
+Season: 5, Episode Number in Season: 15, Overall Episode Number: 83, Title: Correspondents' Lunch, Directed By: Nick Offerman, Written By: Alexandra Rushfield, Original Air Date: 2013-02-21, US Viewers: 2950000.0
+Season: 6, Episode Number in Season: 15, Overall Episode Number: 105, Title: The Wall, Directed By: Ken Whittingham, Written By: Jen Statsky, Original Air Date: 2014-03-06, US Viewers: 2950000.0
+Season: 7, Episode Number in Season: 6, Overall Episode Number: 118, Title: Save JJ's, Directed By: Ken Whittingham, Written By: Joe Mande, Original Air Date: 2015-01-27, US Viewers: 2970000.0
+Season: 6, Episode Number in Season: 12, Overall Episode Number: 102, Title: Farmers Market, Directed By: Adam Scott, Written By: Joe Mande, Original Air Date: 2014-01-23, US Viewers: 2980000.0
+Season: 5, Episode Number in Season: 8, Overall Episode Number: 76, Title: Pawnee Commons, Directed By: Morgan Sackett, Written By: Alexandra Rushfield, Original Air Date: 2012-11-29, US Viewers: 2990000.0
+Season: 5, Episode Number in Season: 22, Overall Episode Number: 90, Title: Are You Better Off?, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2013-05-02, US Viewers: 2990000.0
+Season: 5, Episode Number in Season: 16, Overall Episode Number: 84, Title: Bailout, Directed By: Craig Zisk, Written By: Joe Mande, Original Air Date: 2013-03-14, US Viewers: 3000000.0
+Season: 6, Episode Number in Season: 13, Overall Episode Number: 103, Title: Ann and Chris, Directed By: Dean Holland, Written By: Aisha Muharrar & Michael Schur, Original Air Date: 2014-01-30, US Viewers: 3030000.0
+Season: 6, Episode Number in Season: 7, Overall Episode Number: 97, Title: Recall Vote, Directed By: Wendey Stanzler, Written By: Aisha Muharrar, Original Air Date: 2013-11-14, US Viewers: 3030000.0
+Season: 6, Episode Number in Season: 6, Overall Episode Number: 96, Title: Filibuster, Directed By: Morgan Sackett, Written By: Harris Wittels, Original Air Date: 2013-11-14, US Viewers: 3030000.0
+Season: 6, Episode Number in Season: 11, Overall Episode Number: 101, Title: New Beginnings, Directed By: Alan Yang, Written By: Sam Means, Original Air Date: 2014-01-16, US Viewers: 3050000.0
+Season: 6, Episode Number in Season: 17, Overall Episode Number: 107, Title: Galentine's Day, Directed By: Beth McCarthy-Miller, Written By: Emma Fletcher & Rachna Fruchbom, Original Air Date: 2014-03-20, US Viewers: 3050000.0
+Season: 7, Episode Number in Season: 8, Overall Episode Number: 120, Title: Ms. Ludgate-Dwyer Goes to Washington, Directed By: Morgan Sackett, Written By: Dave King, Original Air Date: 2015-02-03, US Viewers: 3060000.0
+Season: 5, Episode Number in Season: 14, Overall Episode Number: 82, Title: Leslie and Ben, Directed By: Craig Zisk, Written By: Michael Schur & Alan Yang, Original Air Date: 2013-02-21, US Viewers: 3070000.0
+Season: 6, Episode Number in Season: 3, Overall Episode Number: 93, Title: The Pawnee-Eagleton Tip Off Classic, Directed By: Nicole Holofcener, Written By: Alan Yang, Original Air Date: 2013-10-03, US Viewers: 3140000.0
+Season: 5, Episode Number in Season: 18, Overall Episode Number: 86, Title: Animal Control, Directed By: Craig Zisk, Written By: Megan Amram, Original Air Date: 2013-04-11, US Viewers: 3150000.0
+Season: 4, Episode Number in Season: 20, Overall Episode Number: 66, Title: The Debate, Directed By: Amy Poehler, Written By: Amy Poehler, Original Air Date: 2012-04-26, US Viewers: 3170000.0
+Season: 5, Episode Number in Season: 13, Overall Episode Number: 81, Title: Emergency Response, Directed By: Dean Holland, Written By: Norm Hiscock & Joe Mande, Original Air Date: 2013-02-14, US Viewers: 3180000.0
+Season: 6, Episode Number in Season: 4, Overall Episode Number: 94, Title: Doppelgängers, Directed By: Jay Karas, Written By: Donick Cary, Original Air Date: 2013-10-10, US Viewers: 3230000.0
+Season: 7, Episode Number in Season: 2, Overall Episode Number: 114, Title: Ron & Jammy, Directed By: Dean Holland, Written By: Harris Wittels, Original Air Date: 2015-01-13, US Viewers: 3250000.0
+Season: 4, Episode Number in Season: 21, Overall Episode Number: 67, Title: Bus Tour, Directed By: Dean Holland, Written By: Aisha Muharrar & Alan Yang, Original Air Date: 2012-05-03, US Viewers: 3260000.0
+Season: 6, Episode Number in Season: 2, Overall Episode Number: 92, Title: London: Part 2, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2013-09-26, US Viewers: 3270000.0
+Season: 5, Episode Number in Season: 2, Overall Episode Number: 70, Title: Soda Tax, Directed By: Kyle Newacheck, Written By: Norm Hiscock, Original Air Date: 2012-09-27, US Viewers: 3270000.0
+Season: 6, Episode Number in Season: 5, Overall Episode Number: 95, Title: Gin It Up!, Directed By: Jorma Taccone, Written By: Matt Murray, Original Air Date: 2013-10-17, US Viewers: 3270000.0
+Season: 5, Episode Number in Season: 9, Overall Episode Number: 77, Title: Ron and Diane, Directed By: Dan Goor, Written By: Megan Amram & Aisha Muharrar, Original Air Date: 2012-12-06, US Viewers: 3270000.0
+Season: 6, Episode Number in Season: 1, Overall Episode Number: 91, Title: London: Part 1, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2013-09-26, US Viewers: 3270000.0
+Season: 7, Episode Number in Season: 4, Overall Episode Number: 116, Title: Leslie and Ron, Directed By: Beth McCarthy-Miller, Written By: Michael Schur, Original Air Date: 2015-01-20, US Viewers: 3300000.0
+Season: 5, Episode Number in Season: 20, Overall Episode Number: 88, Title: Jerry's Retirement, Directed By: Nicole Holofcener, Written By: Norm Hiscock & Aisha Muharrar, Original Air Date: 2013-04-18, US Viewers: 3340000.0
+Season: 5, Episode Number in Season: 5, Overall Episode Number: 73, Title: Halloween Surprise, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2012-10-25, US Viewers: 3340000.0
+Season: 5, Episode Number in Season: 19, Overall Episode Number: 87, Title: Article Two, Directed By: Amy Poehler, Written By: Matt Murray, Original Air Date: 2013-04-18, US Viewers: 3350000.0
+Season: 4, Episode Number in Season: 22, Overall Episode Number: 68, Title: "Win Lose or Draw", Directed By: Michael Schur, Written By: Michael Schur, Original Air Date: 2012-05-10, US Viewers: 3420000.0
+Season: 6, Episode Number in Season: 10, Overall Episode Number: 100, Title: Second Chunce, Directed By: Dean Holland, Written By: Amy Poehler & Michael Schur, Original Air Date: 2014-01-09, US Viewers: 3430000.0
+Season: 4, Episode Number in Season: 16, Overall Episode Number: 62, Title: Sweet Sixteen, Directed By: Michael Schur, Written By: Norm Hiscock, Original Air Date: 2012-02-23, US Viewers: 3430000.0
+Season: 4, Episode Number in Season: 15, Overall Episode Number: 61, Title: Dave Returns, Directed By: Robert B. Weide, Written By: Harris Wittels, Original Air Date: 2012-02-16, US Viewers: 3450000.0
+Season: 7, Episode Number in Season: 7, Overall Episode Number: 119, Title: Donna and Joe, Directed By: Ken Whittingham, Written By: Aisha Muharrar, Original Air Date: 2015-02-03, US Viewers: 3450000.0
+Season: 5, Episode Number in Season: 4, Overall Episode Number: 72, Title: Sex Education, Directed By: Craig Zisk, Written By: Alan Yang, Original Air Date: 2012-10-18, US Viewers: 3460000.0
+Season: 4, Episode Number in Season: 19, Overall Episode Number: 65, Title: Live Ammo, Directed By: Tristram Shapeero, Written By: Dave King & Chelsea Peretti, Original Air Date: 2012-04-19, US Viewers: 3460000.0
+Season: 5, Episode Number in Season: 6, Overall Episode Number: 74, Title: Ben's Parents, Directed By: Dean Holland, Written By: Greg Levine, Original Air Date: 2012-11-08, US Viewers: 3460000.0
+Season: 7, Episode Number in Season: 5, Overall Episode Number: 117, Title: Gryzzlbox, Directed By: Amy Poehler, Written By: Donick Cary, Original Air Date: 2015-01-27, US Viewers: 3480000.0
+Season: 4, Episode Number in Season: 13, Overall Episode Number: 59, Title: Bowling for Votes, Directed By: Michael Trim, Written By: Katie Dippold, Original Air Date: 2012-01-26, US Viewers: 3490000.0
+Season: 5, Episode Number in Season: 1, Overall Episode Number: 69, Title: Ms. Knope Goes to Washington, Directed By: Dean Holland, Written By: Aisha Muharrar, Original Air Date: 2012-09-20, US Viewers: 3500000.0
+Season: 5, Episode Number in Season: 7, Overall Episode Number: 75, Title: Leslie vs. April, Directed By: Wendey Stanzler, Written By: Harris Wittels, Original Air Date: 2012-11-15, US Viewers: 3520000.0
+Season: 5, Episode Number in Season: 3, Overall Episode Number: 71, Title: How a Bill Becomes a Law, Directed By: Ken Whittingham, Written By: Dan Goor, Original Air Date: 2012-10-04, US Viewers: 3530000.0
+Season: 3, Episode Number in Season: 14, Overall Episode Number: 44, Title: Road Trip, Directed By: Troy Miller, Written By: Harris Wittels, Original Air Date: 2011-05-12, US Viewers: 3540000.0
+Season: 4, Episode Number in Season: 14, Overall Episode Number: 60, Title: Operation Ann, Directed By: Morgan Sackett, Written By: Aisha Muharrar, Original Air Date: 2012-02-02, US Viewers: 3600000.0
+Season: 4, Episode Number in Season: 10, Overall Episode Number: 56, Title: Citizen Knope, Directed By: Randall Einhorn, Written By: Dave King, Original Air Date: 2011-12-08, US Viewers: 3640000.0
+Season: 4, Episode Number in Season: 7, Overall Episode Number: 53, Title: The Treaty, Directed By: Jorma Taccone, Written By: Harris Wittels, Original Air Date: 2011-11-10, US Viewers: 3660000.0
+Season: 4, Episode Number in Season: 18, Overall Episode Number: 64, Title: Lucky, Directed By: Troy Miller, Written By: Nick Offerman, Original Air Date: 2012-03-08, US Viewers: 3660000.0
+Season: 4, Episode Number in Season: 8, Overall Episode Number: 54, Title: Smallest Park, Directed By: Nicole Holofcener, Written By: Chelsea Peretti, Original Air Date: 2011-11-17, US Viewers: 3680000.0
+Season: 4, Episode Number in Season: 9, Overall Episode Number: 55, Title: The Trial of Leslie Knope, Directed By: Dean Holland, Written By: Dan Goor & Michael Schur, Original Air Date: 2011-12-01, US Viewers: 3690000.0
+Season: 3, Episode Number in Season: 16, Overall Episode Number: 46, Title: Li'l Sebastian, Directed By: Dean Holland, Written By: Dan Goor, Original Air Date: 2011-05-19, US Viewers: 3720000.0
+Season: 7, Episode Number in Season: 1, Overall Episode Number: 113, Title: 2017, Directed By: Dean Holland, Written By: Alan Yang & Matt Murray, Original Air Date: 2015-01-13, US Viewers: 3750000.0
+Season: 5, Episode Number in Season: 12, Overall Episode Number: 80, Title: Ann's Decision, Directed By: Ken Whittingham, Written By: Nate DiMeo, Original Air Date: 2013-02-07, US Viewers: 3760000.0
+Season: 4, Episode Number in Season: 17, Overall Episode Number: 63, Title: Campaign Shake-Up, Directed By: Dan Goor, Written By: Dan Goor, Original Air Date: 2012-03-01, US Viewers: 3770000.0
+Season: 7, Episode Number in Season: 3, Overall Episode Number: 115, Title: William Henry Harrison, Directed By: Tom Magill, Written By: Megan Amram, Original Air Date: 2015-01-20, US Viewers: 3870000.0
+Season: 4, Episode Number in Season: 5, Overall Episode Number: 51, Title: Meet 'N' Greet, Directed By: Wendey Stanzler, Written By: Katie Dippold, Original Air Date: 2011-10-27, US Viewers: 3900000.0
+Season: 5, Episode Number in Season: 10, Overall Episode Number: 78, Title: Two Parties, Directed By: Dean Holland, Written By: Dave King, Original Air Date: 2013-01-17, US Viewers: 3920000.0
+Season: 5, Episode Number in Season: 11, Overall Episode Number: 79, Title: Women in Garbage, Directed By: Norm Hiscock, Written By: Harris Wittels, Original Air Date: 2013-01-24, US Viewers: 3940000.0
+Season: 4, Episode Number in Season: 4, Overall Episode Number: 50, Title: Pawnee Rangers, Directed By: Charles McDougall, Written By: Alan Yang, Original Air Date: 2011-10-13, US Viewers: 3990000.0
+Season: 4, Episode Number in Season: 6, Overall Episode Number: 52, Title: End of the World, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2011-11-03, US Viewers: 4000000.0
+Season: 2, Episode Number in Season: 22, Overall Episode Number: 28, Title: Telethon, Directed By: Troy Miller, Written By: Amy Poehler, Original Air Date: 2010-05-06, US Viewers: 4030000.0000000005
+Season: 2, Episode Number in Season: 21, Overall Episode Number: 27, Title: 94 Meetings, Directed By: Tristram Shapeero, Written By: Harris Wittels, Original Air Date: 2010-04-29, US Viewers: 4030000.0000000005
+Season: 3, Episode Number in Season: 7, Overall Episode Number: 37, Title: Harvest Festival, Directed By: Dean Holland, Written By: Dan Goor, Original Air Date: 2011-03-17, US Viewers: 4080000.0
+Season: 4, Episode Number in Season: 11, Overall Episode Number: 57, Title: The Comeback Kid, Directed By: Tucker Gates, Written By: Mike Scully, Original Air Date: 2012-01-12, US Viewers: 4090000.0
+Season: 4, Episode Number in Season: 1, Overall Episode Number: 47, Title: I'm Leslie Knope, Directed By: Troy Miller, Written By: Dan Goor, Original Air Date: 2011-09-22, US Viewers: 4110000.0000000005
+Season: 4, Episode Number in Season: 3, Overall Episode Number: 49, Title: Born and Raised, Directed By: Dean Holland, Written By: Aisha Muharrar, Original Air Date: 2011-10-06, US Viewers: 4150000.0000000005
+Season: 2, Episode Number in Season: 2, Overall Episode Number: 8, Title: The Stakeout, Directed By: Seth Gordon, Written By: Rachel Axler, Original Air Date: 2009-09-24, US Viewers: 4220000.0
+Season: 1, Episode Number in Season: 6, Overall Episode Number: 6, Title: Rock Show, Directed By: Michael Schur, Written By: Norm Hiscock, Original Air Date: 2009-05-14, US Viewers: 4250000.0
+Season: 4, Episode Number in Season: 12, Overall Episode Number: 58, Title: Campaign Ad, Directed By: Dean Holland, Written By: Alan Yang, Original Air Date: 2012-01-19, US Viewers: 4250000.0
+Season: 3, Episode Number in Season: 15, Overall Episode Number: 45, Title: The Bubble, Directed By: Matt Sohn, Written By: Greg Levine & Brian Rowe, Original Air Date: 2011-05-19, US Viewers: 4270000.0
+Season: 2, Episode Number in Season: 23, Overall Episode Number: 29, Title: The Master Plan, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2010-05-13, US Viewers: 4280000.0
+Season: 3, Episode Number in Season: 5, Overall Episode Number: 35, Title: Media Blitz, Directed By: David Rogers, Written By: Harris Wittels, Original Air Date: 2011-02-17, US Viewers: 4330000.0
+Season: 4, Episode Number in Season: 2, Overall Episode Number: 48, Title: Ron and Tammys, Directed By: Randall Einhorn, Written By: Norm Hiscock, Original Air Date: 2011-09-29, US Viewers: 4330000.0
+Season: 2, Episode Number in Season: 14, Overall Episode Number: 20, Title: Leslie's House, Directed By: Alex Hardcastle, Written By: Dan Goor, Original Air Date: 2010-01-21, US Viewers: 4350000.0
+Season: 2, Episode Number in Season: 20, Overall Episode Number: 26, Title: Summer Catalog, Directed By: Ken Whittingham, Written By: Katie Dippold, Original Air Date: 2010-03-25, US Viewers: 4490000.0
+Season: 2, Episode Number in Season: 24, Overall Episode Number: 30, Title: Freddy Spaghetti, Directed By: Jason Woliner, Written By: Dan Goor, Original Air Date: 2010-05-20, US Viewers: 4550000.0
+Season: 3, Episode Number in Season: 13, Overall Episode Number: 43, Title: The Fight, Directed By: Randall Einhorn, Written By: Amy Poehler, Original Air Date: 2011-05-12, US Viewers: 4550000.0
+Season: 3, Episode Number in Season: 6, Overall Episode Number: 36, Title: Indianapolis, Directed By: Randall Einhorn, Written By: Katie Dippold, Original Air Date: 2011-02-24, US Viewers: 4590000.0
+Season: 2, Episode Number in Season: 13, Overall Episode Number: 19, Title: The Set Up, Directed By: Troy Miller, Written By: Katie Dippold, Original Air Date: 2010-01-14, US Viewers: 4590000.0
+Season: 2, Episode Number in Season: 10, Overall Episode Number: 16, Title: Hunting Trip, Directed By: Greg Daniels, Written By: Dan Goor, Original Air Date: 2009-11-19, US Viewers: 4610000.0
+Season: 2, Episode Number in Season: 18, Overall Episode Number: 24, Title: The Possum, Directed By: Tristram Shapeero, Written By: Mike Scully, Original Air Date: 2010-03-11, US Viewers: 4610000.0
+Season: 2, Episode Number in Season: 3, Overall Episode Number: 9, Title: Beauty Pageant, Directed By: Jason Woliner, Written By: Katie Dippold, Original Air Date: 2009-10-01, US Viewers: 4630000.0
+Season: 2, Episode Number in Season: 17, Overall Episode Number: 23, Title: Woman of the Year, Directed By: Jason Woliner, Written By: Norm Hiscock, Original Air Date: 2010-03-04, US Viewers: 4640000.0
+Season: 1, Episode Number in Season: 5, Overall Episode Number: 5, Title: The Banquet, Directed By: Beth McCarthy-Miller, Written By: Tucker Cawley, Original Air Date: 2009-05-07, US Viewers: 4640000.0
+Season: 2, Episode Number in Season: 9, Overall Episode Number: 15, Title: The Camel, Directed By: Millicent Shelton, Written By: Rachel Axler, Original Air Date: 2009-11-12, US Viewers: 4670000.0
+Season: 2, Episode Number in Season: 5, Overall Episode Number: 11, Title: Sister City, Directed By: Michael Schur, Written By: Alan Yang, Original Air Date: 2009-10-15, US Viewers: 4690000.0
+Season: 2, Episode Number in Season: 19, Overall Episode Number: 25, Title: Park Safety, Directed By: Michael Trim, Written By: Aisha Muharrar, Original Air Date: 2010-03-18, US Viewers: 4700000.0
+Season: 3, Episode Number in Season: 11, Overall Episode Number: 41, Title: Jerry's Painting, Directed By: Dean Holland, Written By: Norm Hiscock, Original Air Date: 2011-04-28, US Viewers: 4710000.0
+Season: 2, Episode Number in Season: 11, Overall Episode Number: 17, Title: Tom's Divorce, Directed By: Troy Miller, Written By: Harris Wittels, Original Air Date: 2009-12-03, US Viewers: 4830000.0
+Season: 2, Episode Number in Season: 15, Overall Episode Number: 21, Title: Sweetums, Directed By: Dean Holland, Written By: Alan Yang, Original Air Date: 2010-02-04, US Viewers: 4870000.0
+Season: 3, Episode Number in Season: 10, Overall Episode Number: 40, Title: Soulmates, Directed By: Ken Whittingham, Written By: Alan Yang, Original Air Date: 2011-04-21, US Viewers: 4880000.0
+Season: 2, Episode Number in Season: 12, Overall Episode Number: 18, Title: Christmas Scandal, Directed By: Randall Einhorn, Written By: Michael Schur, Original Air Date: 2009-12-10, US Viewers: 4900000.0
+Season: 2, Episode Number in Season: 8, Overall Episode Number: 14, Title: Ron and Tammy, Directed By: Troy Miller, Written By: Mike Scully, Original Air Date: 2009-11-05, US Viewers: 4940000.0
+Season: 3, Episode Number in Season: 3, Overall Episode Number: 33, Title: Time Capsule, Directed By: Michael Schur, Written By: Michael Schur, Original Air Date: 2011-02-03, US Viewers: 4950000.0
+Season: 2, Episode Number in Season: 7, Overall Episode Number: 13, Title: Greg Pikitis, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2009-10-29, US Viewers: 4960000.0
+Season: 2, Episode Number in Season: 4, Overall Episode Number: 10, Title: Practice Date, Directed By: Alex Hardcastle, Written By: Harris Wittels, Original Air Date: 2009-10-08, US Viewers: 4970000.0
+Season: 2, Episode Number in Season: 16, Overall Episode Number: 22, Title: Galentine's Day, Directed By: Ken Kwapis, Written By: Michael Schur, Original Air Date: 2010-02-11, US Viewers: 4980000.0
+Season: 2, Episode Number in Season: 6, Overall Episode Number: 12, Title: Kaboom, Directed By: Charles McDougall, Written By: Aisha Muharrar, Original Air Date: 2009-10-22, US Viewers: 4980000.0
+Season: 2, Episode Number in Season: 1, Overall Episode Number: 7, Title: Pawnee Zoo, Directed By: Paul Feig, Written By: Norm Hiscock, Original Air Date: 2009-09-17, US Viewers: 5000000.0
+Season: 3, Episode Number in Season: 4, Overall Episode Number: 34, Title: Ron & Tammy 2, Directed By: Tucker Gates, Written By: Emily Kapnek, Original Air Date: 2011-02-10, US Viewers: 5030000.0
+Season: 3, Episode Number in Season: 12, Overall Episode Number: 42, Title: Eagleton, Directed By: Nicole Holofcener, Written By: Emily Spivey, Original Air Date: 2011-05-05, US Viewers: 5060000.0
+Season: 3, Episode Number in Season: 8, Overall Episode Number: 38, Title: Camping, Directed By: Rob Schrab, Written By: Aisha Muharrar, Original Air Date: 2011-03-24, US Viewers: 5150000.0
+Season: 3, Episode Number in Season: 9, Overall Episode Number: 39, Title: Andy and April's Fancy Party, Directed By: Michael Trim, Written By: Katie Dippold, Original Air Date: 2011-04-14, US Viewers: 5160000.0
+Season: 1, Episode Number in Season: 3, Overall Episode Number: 3, Title: The Reporter, Directed By: Jeffrey Blitz, Written By: Dan Goor, Original Air Date: 2009-04-23, US Viewers: 5240000.0
+Season: 1, Episode Number in Season: 4, Overall Episode Number: 4, Title: Boys' Club, Directed By: Michael McCullers, Written By: Alan Yang, Original Air Date: 2009-04-30, US Viewers: 5290000.0
+Season: 3, Episode Number in Season: 2, Overall Episode Number: 32, Title: Flu Season, Directed By: Wendey Stanzler, Written By: Norm Hiscock, Original Air Date: 2011-01-27, US Viewers: 5830000.0
+Season: 1, Episode Number in Season: 2, Overall Episode Number: 2, Title: Canvassing, Directed By: Seth Gordon, Written By: Rachel Axler, Original Air Date: 2009-04-16, US Viewers: 5920000.0
+Season: 3, Episode Number in Season: 1, Overall Episode Number: 31, Title: Go Big or Go Home, Directed By: Dean Holland, Written By: Alan Yang, Original Air Date: 2011-01-20, US Viewers: 6140000.0
+Season: 1, Episode Number in Season: 1, Overall Episode Number: 1, Title: Pilot, Directed By: Greg Daniels, Written By: Greg Daniels & Michael Schur, Original Air Date: 2009-04-09, US Viewers: 6770000.0
+
+Reversed ArrayList:
+Season: 6, Episode Number in Season: 20, Overall Episode Number: 110, Title: "One in 8000", Directed By: Dean Holland, Written By: Donick Cary & Joe Mande, Original Air Date: 2014-04-17, US Viewers: 2390000.0
+Season: 6, Episode Number in Season: 14, Overall Episode Number: 104, Title: Anniversaries, Directed By: Morgan Sackett, Written By: Megan Amram, Original Air Date: 2014-02-27, US Viewers: 2520000.0
+Season: 6, Episode Number in Season: 19, Overall Episode Number: 109, Title: Flu Season 2, Directed By: Nick Offerman, Written By: Megan Amram & Dave King, Original Air Date: 2014-04-10, US Viewers: 2560000.0
+Season: 5, Episode Number in Season: 21, Overall Episode Number: 89, Title: Swing Vote, Directed By: Alan Yang, Written By: Joe Mande & Alan Yang, Original Air Date: 2013-04-25, US Viewers: 2590000.0
+Season: 6, Episode Number in Season: 18, Overall Episode Number: 108, Title: Prom, Directed By: Ken Whittingham, Written By: Matt Murray & Harris Wittels, Original Air Date: 2014-04-03, US Viewers: 2670000.0
+Season: 6, Episode Number in Season: 21, Overall Episode Number: 111, Title: Moving Up: Part 1, Directed By: Michael Schur, Written By: Aisha Muharrar & Alan Yang, Original Air Date: 2014-04-24, US Viewers: 2710000.0
+Season: 6, Episode Number in Season: 22, Overall Episode Number: 112, Title: Moving Up: Part 2, Directed By: Michael Schur, Written By: Aisha Muharrar & Alan Yang, Original Air Date: 2014-04-24, US Viewers: 2710000.0
+Season: 6, Episode Number in Season: 16, Overall Episode Number: 106, Title: New Slogan, Directed By: Dean Holland, Written By: Alan Yang & Sam Means, Original Air Date: 2014-03-13, US Viewers: 2720000.0
+Season: 6, Episode Number in Season: 8, Overall Episode Number: 98, Title: Fluoride, Directed By: Michael Trim, Written By: Matt Hubbard, Original Air Date: 2013-11-21, US Viewers: 2810000.0
+Season: 6, Episode Number in Season: 9, Overall Episode Number: 99, Title: The Cones of Dunshire, Directed By: Julie Anne Robinson, Written By: Dave King, Original Air Date: 2013-11-21, US Viewers: 2810000.0
+Season: 5, Episode Number in Season: 17, Overall Episode Number: 85, Title: Partridge, Directed By: Tristram Shapeero, Written By: Dave King, Original Air Date: 2013-04-04, US Viewers: 2930000.0
+Season: 5, Episode Number in Season: 15, Overall Episode Number: 83, Title: Correspondents' Lunch, Directed By: Nick Offerman, Written By: Alexandra Rushfield, Original Air Date: 2013-02-21, US Viewers: 2950000.0
+Season: 6, Episode Number in Season: 15, Overall Episode Number: 105, Title: The Wall, Directed By: Ken Whittingham, Written By: Jen Statsky, Original Air Date: 2014-03-06, US Viewers: 2950000.0
+Season: 7, Episode Number in Season: 6, Overall Episode Number: 118, Title: Save JJ's, Directed By: Ken Whittingham, Written By: Joe Mande, Original Air Date: 2015-01-27, US Viewers: 2970000.0
+Season: 6, Episode Number in Season: 12, Overall Episode Number: 102, Title: Farmers Market, Directed By: Adam Scott, Written By: Joe Mande, Original Air Date: 2014-01-23, US Viewers: 2980000.0
+Season: 5, Episode Number in Season: 8, Overall Episode Number: 76, Title: Pawnee Commons, Directed By: Morgan Sackett, Written By: Alexandra Rushfield, Original Air Date: 2012-11-29, US Viewers: 2990000.0
+Season: 5, Episode Number in Season: 22, Overall Episode Number: 90, Title: Are You Better Off?, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2013-05-02, US Viewers: 2990000.0
+Season: 5, Episode Number in Season: 16, Overall Episode Number: 84, Title: Bailout, Directed By: Craig Zisk, Written By: Joe Mande, Original Air Date: 2013-03-14, US Viewers: 3000000.0
+Season: 6, Episode Number in Season: 6, Overall Episode Number: 96, Title: Filibuster, Directed By: Morgan Sackett, Written By: Harris Wittels, Original Air Date: 2013-11-14, US Viewers: 3030000.0
+Season: 6, Episode Number in Season: 7, Overall Episode Number: 97, Title: Recall Vote, Directed By: Wendey Stanzler, Written By: Aisha Muharrar, Original Air Date: 2013-11-14, US Viewers: 3030000.0
+Season: 6, Episode Number in Season: 13, Overall Episode Number: 103, Title: Ann and Chris, Directed By: Dean Holland, Written By: Aisha Muharrar & Michael Schur, Original Air Date: 2014-01-30, US Viewers: 3030000.0
+Season: 6, Episode Number in Season: 11, Overall Episode Number: 101, Title: New Beginnings, Directed By: Alan Yang, Written By: Sam Means, Original Air Date: 2014-01-16, US Viewers: 3050000.0
+Season: 6, Episode Number in Season: 17, Overall Episode Number: 107, Title: Galentine's Day, Directed By: Beth McCarthy-Miller, Written By: Emma Fletcher & Rachna Fruchbom, Original Air Date: 2014-03-20, US Viewers: 3050000.0
+Season: 7, Episode Number in Season: 8, Overall Episode Number: 120, Title: Ms. Ludgate-Dwyer Goes to Washington, Directed By: Morgan Sackett, Written By: Dave King, Original Air Date: 2015-02-03, US Viewers: 3060000.0
+Season: 5, Episode Number in Season: 14, Overall Episode Number: 82, Title: Leslie and Ben, Directed By: Craig Zisk, Written By: Michael Schur & Alan Yang, Original Air Date: 2013-02-21, US Viewers: 3070000.0
+Season: 6, Episode Number in Season: 3, Overall Episode Number: 93, Title: The Pawnee-Eagleton Tip Off Classic, Directed By: Nicole Holofcener, Written By: Alan Yang, Original Air Date: 2013-10-03, US Viewers: 3140000.0
+Season: 5, Episode Number in Season: 18, Overall Episode Number: 86, Title: Animal Control, Directed By: Craig Zisk, Written By: Megan Amram, Original Air Date: 2013-04-11, US Viewers: 3150000.0
+Season: 4, Episode Number in Season: 20, Overall Episode Number: 66, Title: The Debate, Directed By: Amy Poehler, Written By: Amy Poehler, Original Air Date: 2012-04-26, US Viewers: 3170000.0
+Season: 5, Episode Number in Season: 13, Overall Episode Number: 81, Title: Emergency Response, Directed By: Dean Holland, Written By: Norm Hiscock & Joe Mande, Original Air Date: 2013-02-14, US Viewers: 3180000.0
+Season: 6, Episode Number in Season: 4, Overall Episode Number: 94, Title: Doppelgängers, Directed By: Jay Karas, Written By: Donick Cary, Original Air Date: 2013-10-10, US Viewers: 3230000.0
+Season: 7, Episode Number in Season: 2, Overall Episode Number: 114, Title: Ron & Jammy, Directed By: Dean Holland, Written By: Harris Wittels, Original Air Date: 2015-01-13, US Viewers: 3250000.0
+Season: 4, Episode Number in Season: 21, Overall Episode Number: 67, Title: Bus Tour, Directed By: Dean Holland, Written By: Aisha Muharrar & Alan Yang, Original Air Date: 2012-05-03, US Viewers: 3260000.0
+Season: 5, Episode Number in Season: 2, Overall Episode Number: 70, Title: Soda Tax, Directed By: Kyle Newacheck, Written By: Norm Hiscock, Original Air Date: 2012-09-27, US Viewers: 3270000.0
+Season: 5, Episode Number in Season: 9, Overall Episode Number: 77, Title: Ron and Diane, Directed By: Dan Goor, Written By: Megan Amram & Aisha Muharrar, Original Air Date: 2012-12-06, US Viewers: 3270000.0
+Season: 6, Episode Number in Season: 1, Overall Episode Number: 91, Title: London: Part 1, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2013-09-26, US Viewers: 3270000.0
+Season: 6, Episode Number in Season: 2, Overall Episode Number: 92, Title: London: Part 2, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2013-09-26, US Viewers: 3270000.0
+Season: 6, Episode Number in Season: 5, Overall Episode Number: 95, Title: Gin It Up!, Directed By: Jorma Taccone, Written By: Matt Murray, Original Air Date: 2013-10-17, US Viewers: 3270000.0
+Season: 7, Episode Number in Season: 4, Overall Episode Number: 116, Title: Leslie and Ron, Directed By: Beth McCarthy-Miller, Written By: Michael Schur, Original Air Date: 2015-01-20, US Viewers: 3300000.0
+Season: 5, Episode Number in Season: 5, Overall Episode Number: 73, Title: Halloween Surprise, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2012-10-25, US Viewers: 3340000.0
+Season: 5, Episode Number in Season: 20, Overall Episode Number: 88, Title: Jerry's Retirement, Directed By: Nicole Holofcener, Written By: Norm Hiscock & Aisha Muharrar, Original Air Date: 2013-04-18, US Viewers: 3340000.0
+Season: 5, Episode Number in Season: 19, Overall Episode Number: 87, Title: Article Two, Directed By: Amy Poehler, Written By: Matt Murray, Original Air Date: 2013-04-18, US Viewers: 3350000.0
+Season: 4, Episode Number in Season: 22, Overall Episode Number: 68, Title: "Win Lose or Draw", Directed By: Michael Schur, Written By: Michael Schur, Original Air Date: 2012-05-10, US Viewers: 3420000.0
+Season: 4, Episode Number in Season: 16, Overall Episode Number: 62, Title: Sweet Sixteen, Directed By: Michael Schur, Written By: Norm Hiscock, Original Air Date: 2012-02-23, US Viewers: 3430000.0
+Season: 6, Episode Number in Season: 10, Overall Episode Number: 100, Title: Second Chunce, Directed By: Dean Holland, Written By: Amy Poehler & Michael Schur, Original Air Date: 2014-01-09, US Viewers: 3430000.0
+Season: 4, Episode Number in Season: 15, Overall Episode Number: 61, Title: Dave Returns, Directed By: Robert B. Weide, Written By: Harris Wittels, Original Air Date: 2012-02-16, US Viewers: 3450000.0
+Season: 7, Episode Number in Season: 7, Overall Episode Number: 119, Title: Donna and Joe, Directed By: Ken Whittingham, Written By: Aisha Muharrar, Original Air Date: 2015-02-03, US Viewers: 3450000.0
+Season: 4, Episode Number in Season: 19, Overall Episode Number: 65, Title: Live Ammo, Directed By: Tristram Shapeero, Written By: Dave King & Chelsea Peretti, Original Air Date: 2012-04-19, US Viewers: 3460000.0
+Season: 5, Episode Number in Season: 4, Overall Episode Number: 72, Title: Sex Education, Directed By: Craig Zisk, Written By: Alan Yang, Original Air Date: 2012-10-18, US Viewers: 3460000.0
+Season: 5, Episode Number in Season: 6, Overall Episode Number: 74, Title: Ben's Parents, Directed By: Dean Holland, Written By: Greg Levine, Original Air Date: 2012-11-08, US Viewers: 3460000.0
+Season: 7, Episode Number in Season: 5, Overall Episode Number: 117, Title: Gryzzlbox, Directed By: Amy Poehler, Written By: Donick Cary, Original Air Date: 2015-01-27, US Viewers: 3480000.0
+Season: 4, Episode Number in Season: 13, Overall Episode Number: 59, Title: Bowling for Votes, Directed By: Michael Trim, Written By: Katie Dippold, Original Air Date: 2012-01-26, US Viewers: 3490000.0
+Season: 5, Episode Number in Season: 1, Overall Episode Number: 69, Title: Ms. Knope Goes to Washington, Directed By: Dean Holland, Written By: Aisha Muharrar, Original Air Date: 2012-09-20, US Viewers: 3500000.0
+Season: 5, Episode Number in Season: 7, Overall Episode Number: 75, Title: Leslie vs. April, Directed By: Wendey Stanzler, Written By: Harris Wittels, Original Air Date: 2012-11-15, US Viewers: 3520000.0
+Season: 5, Episode Number in Season: 3, Overall Episode Number: 71, Title: How a Bill Becomes a Law, Directed By: Ken Whittingham, Written By: Dan Goor, Original Air Date: 2012-10-04, US Viewers: 3530000.0
+Season: 3, Episode Number in Season: 14, Overall Episode Number: 44, Title: Road Trip, Directed By: Troy Miller, Written By: Harris Wittels, Original Air Date: 2011-05-12, US Viewers: 3540000.0
+Season: 4, Episode Number in Season: 14, Overall Episode Number: 60, Title: Operation Ann, Directed By: Morgan Sackett, Written By: Aisha Muharrar, Original Air Date: 2012-02-02, US Viewers: 3600000.0
+Season: 4, Episode Number in Season: 10, Overall Episode Number: 56, Title: Citizen Knope, Directed By: Randall Einhorn, Written By: Dave King, Original Air Date: 2011-12-08, US Viewers: 3640000.0
+Season: 4, Episode Number in Season: 7, Overall Episode Number: 53, Title: The Treaty, Directed By: Jorma Taccone, Written By: Harris Wittels, Original Air Date: 2011-11-10, US Viewers: 3660000.0
+Season: 4, Episode Number in Season: 18, Overall Episode Number: 64, Title: Lucky, Directed By: Troy Miller, Written By: Nick Offerman, Original Air Date: 2012-03-08, US Viewers: 3660000.0
+Season: 4, Episode Number in Season: 8, Overall Episode Number: 54, Title: Smallest Park, Directed By: Nicole Holofcener, Written By: Chelsea Peretti, Original Air Date: 2011-11-17, US Viewers: 3680000.0
+Season: 4, Episode Number in Season: 9, Overall Episode Number: 55, Title: The Trial of Leslie Knope, Directed By: Dean Holland, Written By: Dan Goor & Michael Schur, Original Air Date: 2011-12-01, US Viewers: 3690000.0
+Season: 3, Episode Number in Season: 16, Overall Episode Number: 46, Title: Li'l Sebastian, Directed By: Dean Holland, Written By: Dan Goor, Original Air Date: 2011-05-19, US Viewers: 3720000.0
+Season: 7, Episode Number in Season: 1, Overall Episode Number: 113, Title: 2017, Directed By: Dean Holland, Written By: Alan Yang & Matt Murray, Original Air Date: 2015-01-13, US Viewers: 3750000.0
+Season: 5, Episode Number in Season: 12, Overall Episode Number: 80, Title: Ann's Decision, Directed By: Ken Whittingham, Written By: Nate DiMeo, Original Air Date: 2013-02-07, US Viewers: 3760000.0
+Season: 4, Episode Number in Season: 17, Overall Episode Number: 63, Title: Campaign Shake-Up, Directed By: Dan Goor, Written By: Dan Goor, Original Air Date: 2012-03-01, US Viewers: 3770000.0
+Season: 7, Episode Number in Season: 3, Overall Episode Number: 115, Title: William Henry Harrison, Directed By: Tom Magill, Written By: Megan Amram, Original Air Date: 2015-01-20, US Viewers: 3870000.0
+Season: 4, Episode Number in Season: 5, Overall Episode Number: 51, Title: Meet 'N' Greet, Directed By: Wendey Stanzler, Written By: Katie Dippold, Original Air Date: 2011-10-27, US Viewers: 3900000.0
+Season: 5, Episode Number in Season: 10, Overall Episode Number: 78, Title: Two Parties, Directed By: Dean Holland, Written By: Dave King, Original Air Date: 2013-01-17, US Viewers: 3920000.0
+Season: 5, Episode Number in Season: 11, Overall Episode Number: 79, Title: Women in Garbage, Directed By: Norm Hiscock, Written By: Harris Wittels, Original Air Date: 2013-01-24, US Viewers: 3940000.0
+Season: 4, Episode Number in Season: 4, Overall Episode Number: 50, Title: Pawnee Rangers, Directed By: Charles McDougall, Written By: Alan Yang, Original Air Date: 2011-10-13, US Viewers: 3990000.0
+Season: 4, Episode Number in Season: 6, Overall Episode Number: 52, Title: End of the World, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2011-11-03, US Viewers: 4000000.0
+Season: 2, Episode Number in Season: 21, Overall Episode Number: 27, Title: 94 Meetings, Directed By: Tristram Shapeero, Written By: Harris Wittels, Original Air Date: 2010-04-29, US Viewers: 4030000.0000000005
+Season: 2, Episode Number in Season: 22, Overall Episode Number: 28, Title: Telethon, Directed By: Troy Miller, Written By: Amy Poehler, Original Air Date: 2010-05-06, US Viewers: 4030000.0000000005
+Season: 3, Episode Number in Season: 7, Overall Episode Number: 37, Title: Harvest Festival, Directed By: Dean Holland, Written By: Dan Goor, Original Air Date: 2011-03-17, US Viewers: 4080000.0
+Season: 4, Episode Number in Season: 11, Overall Episode Number: 57, Title: The Comeback Kid, Directed By: Tucker Gates, Written By: Mike Scully, Original Air Date: 2012-01-12, US Viewers: 4090000.0
+Season: 4, Episode Number in Season: 1, Overall Episode Number: 47, Title: I'm Leslie Knope, Directed By: Troy Miller, Written By: Dan Goor, Original Air Date: 2011-09-22, US Viewers: 4110000.0000000005
+Season: 4, Episode Number in Season: 3, Overall Episode Number: 49, Title: Born and Raised, Directed By: Dean Holland, Written By: Aisha Muharrar, Original Air Date: 2011-10-06, US Viewers: 4150000.0000000005
+Season: 2, Episode Number in Season: 2, Overall Episode Number: 8, Title: The Stakeout, Directed By: Seth Gordon, Written By: Rachel Axler, Original Air Date: 2009-09-24, US Viewers: 4220000.0
+Season: 1, Episode Number in Season: 6, Overall Episode Number: 6, Title: Rock Show, Directed By: Michael Schur, Written By: Norm Hiscock, Original Air Date: 2009-05-14, US Viewers: 4250000.0
+Season: 4, Episode Number in Season: 12, Overall Episode Number: 58, Title: Campaign Ad, Directed By: Dean Holland, Written By: Alan Yang, Original Air Date: 2012-01-19, US Viewers: 4250000.0
+Season: 3, Episode Number in Season: 15, Overall Episode Number: 45, Title: The Bubble, Directed By: Matt Sohn, Written By: Greg Levine & Brian Rowe, Original Air Date: 2011-05-19, US Viewers: 4270000.0
+Season: 2, Episode Number in Season: 23, Overall Episode Number: 29, Title: The Master Plan, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2010-05-13, US Viewers: 4280000.0
+Season: 3, Episode Number in Season: 5, Overall Episode Number: 35, Title: Media Blitz, Directed By: David Rogers, Written By: Harris Wittels, Original Air Date: 2011-02-17, US Viewers: 4330000.0
+Season: 4, Episode Number in Season: 2, Overall Episode Number: 48, Title: Ron and Tammys, Directed By: Randall Einhorn, Written By: Norm Hiscock, Original Air Date: 2011-09-29, US Viewers: 4330000.0
+Season: 2, Episode Number in Season: 14, Overall Episode Number: 20, Title: Leslie's House, Directed By: Alex Hardcastle, Written By: Dan Goor, Original Air Date: 2010-01-21, US Viewers: 4350000.0
+Season: 2, Episode Number in Season: 20, Overall Episode Number: 26, Title: Summer Catalog, Directed By: Ken Whittingham, Written By: Katie Dippold, Original Air Date: 2010-03-25, US Viewers: 4490000.0
+Season: 2, Episode Number in Season: 24, Overall Episode Number: 30, Title: Freddy Spaghetti, Directed By: Jason Woliner, Written By: Dan Goor, Original Air Date: 2010-05-20, US Viewers: 4550000.0
+Season: 3, Episode Number in Season: 13, Overall Episode Number: 43, Title: The Fight, Directed By: Randall Einhorn, Written By: Amy Poehler, Original Air Date: 2011-05-12, US Viewers: 4550000.0
+Season: 2, Episode Number in Season: 13, Overall Episode Number: 19, Title: The Set Up, Directed By: Troy Miller, Written By: Katie Dippold, Original Air Date: 2010-01-14, US Viewers: 4590000.0
+Season: 3, Episode Number in Season: 6, Overall Episode Number: 36, Title: Indianapolis, Directed By: Randall Einhorn, Written By: Katie Dippold, Original Air Date: 2011-02-24, US Viewers: 4590000.0
+Season: 2, Episode Number in Season: 10, Overall Episode Number: 16, Title: Hunting Trip, Directed By: Greg Daniels, Written By: Dan Goor, Original Air Date: 2009-11-19, US Viewers: 4610000.0
+Season: 2, Episode Number in Season: 18, Overall Episode Number: 24, Title: The Possum, Directed By: Tristram Shapeero, Written By: Mike Scully, Original Air Date: 2010-03-11, US Viewers: 4610000.0
+Season: 2, Episode Number in Season: 3, Overall Episode Number: 9, Title: Beauty Pageant, Directed By: Jason Woliner, Written By: Katie Dippold, Original Air Date: 2009-10-01, US Viewers: 4630000.0
+Season: 1, Episode Number in Season: 5, Overall Episode Number: 5, Title: The Banquet, Directed By: Beth McCarthy-Miller, Written By: Tucker Cawley, Original Air Date: 2009-05-07, US Viewers: 4640000.0
+Season: 2, Episode Number in Season: 17, Overall Episode Number: 23, Title: Woman of the Year, Directed By: Jason Woliner, Written By: Norm Hiscock, Original Air Date: 2010-03-04, US Viewers: 4640000.0
+Season: 2, Episode Number in Season: 9, Overall Episode Number: 15, Title: The Camel, Directed By: Millicent Shelton, Written By: Rachel Axler, Original Air Date: 2009-11-12, US Viewers: 4670000.0
+Season: 2, Episode Number in Season: 5, Overall Episode Number: 11, Title: Sister City, Directed By: Michael Schur, Written By: Alan Yang, Original Air Date: 2009-10-15, US Viewers: 4690000.0
+Season: 2, Episode Number in Season: 19, Overall Episode Number: 25, Title: Park Safety, Directed By: Michael Trim, Written By: Aisha Muharrar, Original Air Date: 2010-03-18, US Viewers: 4700000.0
+Season: 3, Episode Number in Season: 11, Overall Episode Number: 41, Title: Jerry's Painting, Directed By: Dean Holland, Written By: Norm Hiscock, Original Air Date: 2011-04-28, US Viewers: 4710000.0
+Season: 2, Episode Number in Season: 11, Overall Episode Number: 17, Title: Tom's Divorce, Directed By: Troy Miller, Written By: Harris Wittels, Original Air Date: 2009-12-03, US Viewers: 4830000.0
+Season: 2, Episode Number in Season: 15, Overall Episode Number: 21, Title: Sweetums, Directed By: Dean Holland, Written By: Alan Yang, Original Air Date: 2010-02-04, US Viewers: 4870000.0
+Season: 3, Episode Number in Season: 10, Overall Episode Number: 40, Title: Soulmates, Directed By: Ken Whittingham, Written By: Alan Yang, Original Air Date: 2011-04-21, US Viewers: 4880000.0
+Season: 2, Episode Number in Season: 12, Overall Episode Number: 18, Title: Christmas Scandal, Directed By: Randall Einhorn, Written By: Michael Schur, Original Air Date: 2009-12-10, US Viewers: 4900000.0
+Season: 2, Episode Number in Season: 8, Overall Episode Number: 14, Title: Ron and Tammy, Directed By: Troy Miller, Written By: Mike Scully, Original Air Date: 2009-11-05, US Viewers: 4940000.0
+Season: 3, Episode Number in Season: 3, Overall Episode Number: 33, Title: Time Capsule, Directed By: Michael Schur, Written By: Michael Schur, Original Air Date: 2011-02-03, US Viewers: 4950000.0
+Season: 2, Episode Number in Season: 7, Overall Episode Number: 13, Title: Greg Pikitis, Directed By: Dean Holland, Written By: Michael Schur, Original Air Date: 2009-10-29, US Viewers: 4960000.0
+Season: 2, Episode Number in Season: 4, Overall Episode Number: 10, Title: Practice Date, Directed By: Alex Hardcastle, Written By: Harris Wittels, Original Air Date: 2009-10-08, US Viewers: 4970000.0
+Season: 2, Episode Number in Season: 6, Overall Episode Number: 12, Title: Kaboom, Directed By: Charles McDougall, Written By: Aisha Muharrar, Original Air Date: 2009-10-22, US Viewers: 4980000.0
+Season: 2, Episode Number in Season: 16, Overall Episode Number: 22, Title: Galentine's Day, Directed By: Ken Kwapis, Written By: Michael Schur, Original Air Date: 2010-02-11, US Viewers: 4980000.0
+Season: 2, Episode Number in Season: 1, Overall Episode Number: 7, Title: Pawnee Zoo, Directed By: Paul Feig, Written By: Norm Hiscock, Original Air Date: 2009-09-17, US Viewers: 5000000.0
+Season: 3, Episode Number in Season: 4, Overall Episode Number: 34, Title: Ron & Tammy 2, Directed By: Tucker Gates, Written By: Emily Kapnek, Original Air Date: 2011-02-10, US Viewers: 5030000.0
+Season: 3, Episode Number in Season: 12, Overall Episode Number: 42, Title: Eagleton, Directed By: Nicole Holofcener, Written By: Emily Spivey, Original Air Date: 2011-05-05, US Viewers: 5060000.0
+Season: 3, Episode Number in Season: 8, Overall Episode Number: 38, Title: Camping, Directed By: Rob Schrab, Written By: Aisha Muharrar, Original Air Date: 2011-03-24, US Viewers: 5150000.0
+Season: 3, Episode Number in Season: 9, Overall Episode Number: 39, Title: Andy and April's Fancy Party, Directed By: Michael Trim, Written By: Katie Dippold, Original Air Date: 2011-04-14, US Viewers: 5160000.0
+Season: 1, Episode Number in Season: 3, Overall Episode Number: 3, Title: The Reporter, Directed By: Jeffrey Blitz, Written By: Dan Goor, Original Air Date: 2009-04-23, US Viewers: 5240000.0
+Season: 1, Episode Number in Season: 4, Overall Episode Number: 4, Title: Boys' Club, Directed By: Michael McCullers, Written By: Alan Yang, Original Air Date: 2009-04-30, US Viewers: 5290000.0
+Season: 3, Episode Number in Season: 2, Overall Episode Number: 32, Title: Flu Season, Directed By: Wendey Stanzler, Written By: Norm Hiscock, Original Air Date: 2011-01-27, US Viewers: 5830000.0
+Season: 1, Episode Number in Season: 2, Overall Episode Number: 2, Title: Canvassing, Directed By: Seth Gordon, Written By: Rachel Axler, Original Air Date: 2009-04-16, US Viewers: 5920000.0
+Season: 3, Episode Number in Season: 1, Overall Episode Number: 31, Title: Go Big or Go Home, Directed By: Dean Holland, Written By: Alan Yang, Original Air Date: 2011-01-20, US Viewers: 6140000.0
+Season: 1, Episode Number in Season: 1, Overall Episode Number: 1, Title: Pilot, Directed By: Greg Daniels, Written By: Greg Daniels & Michael Schur, Original Air Date: 2009-04-09, US Viewers: 6770000.0
+
